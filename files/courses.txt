@@ -1,0 +1,24 @@
+Computer and Information Skills,CSCI101,3
+Introduction to Programming,CSCI102,3
+Introduction to Computer Systems,CSCI205,3
+Intermediate Programming,CSCI112,3
+Data Structures and Algorithms,CSCI207/ECEN204,3
+Advanced Computer Programming and Concept,CSCI217,3
+Design and Analysis of Algorithms,CSCI208,3
+Physics I,PHYS101C,3
+Electric Circuits,ECEN101C,3
+Analytical Geometry and Calculus I,MATH111,3
+Analytical Geometry and Calculus II,MATH112,3
+English I,ENGL-101,3
+English II,ENGL-102,3
+Writing Skills,ENGL201,3
+Communication and Presentation Skills,ENGL202,3
+Calculus III,MATH210,3
+Introduction to Probability and Statistics,MATH201,3
+Discrete Mathematics,MATH211,3
+S.T.in Egyptian and Arab Heritage,SSCI101,3
+Differential Equations,MATH203,3
+Introduction to Ethics,HUMA102,1
+Music Theory,ARTS-205,3
+Logic Design,CSCI221,4
+MAHT,1234567,5

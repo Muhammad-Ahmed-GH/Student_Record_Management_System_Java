@@ -1,0 +1,10 @@
+Muhammad Ahmed Ibrahim,30511101402117,1234,CS,male,Qalyubia,2.5,CSCI101,C,CSCI102,B
+Omar Ahmed Ibrahim,30511101204118,1235,CS,male,Qalyubia,3.0,CSCI101,B
+Ahmed Ibrahim Salama,30511101204119,1236,CS,male,Qalyubia,3.0,CSCI101,B
+Sarah Ahmed,30511101204120,1237,CS,female,Qalyubia,3.0,CSCI101,B
+Noha Mohamed Ahmed,30511101402121,1238,AI,female,Cairo,3.0,CSCI101,B,CSCI102,Not Yet Assigned
+Maha Ahmed Amin,30511101204122,1239,BMD,female,Alexandria,3.0,CSCI101,B,CSCI102,Not Yet Assigned
+Ziad Taher Mohamed,30511101204123,1240,AI,male,Giza,0.0
+Ahmed Ashraf,30511101204124,1241,AI,male,Cairo,0.0
+Ahmed Gamal,30511101204117,1242,CS,male,Cairo,0.0
+Ahmed Gamal,5,1243,CS,female,Cairo,0.0
