@@ -21,4 +21,3 @@ Differential Equations,MATH203,3
 Introduction to Ethics,HUMA102,1
 Music Theory,ARTS-205,3
 Logic Design,CSCI221,4
-MAHT,1234567,5

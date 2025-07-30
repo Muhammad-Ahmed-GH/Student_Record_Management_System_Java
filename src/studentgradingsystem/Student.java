@@ -1,8 +1,9 @@
 package studentgradingsystem;
+
 import java.util.ArrayList;
 import java.util.StringTokenizer;
-public class Student
-{
+
+public class Student {
     public String name;
     public int id;
     public long nationalId;
@@ -12,8 +13,7 @@ public class Student
     public double gpa;
     public ArrayList<Course> enrolledCourses;
 
-    public Student(String name, long nationalId, String major, String gender, String address)
-    {
+    public Student(String name, long nationalId, String major, String gender, String address) {
         this.name = name;
         this.nationalId = nationalId;
         this.major = major;
@@ -24,12 +24,12 @@ public class Student
         id = mainFrame.studentsLastId;
         enrolledCourses = new ArrayList<>();
     }
-    public Student()
-    {
+
+    public Student() {
         this("Unknown", 0, "Unknown", "Unknown", "Unknown");
     }
-    public Student(String dataLine)
-    {
+
+    public Student(String dataLine) {
         StringTokenizer t = new StringTokenizer(dataLine, ",");
         name = t.nextToken();
         nationalId = Long.parseLong(t.nextToken());
@@ -39,17 +39,14 @@ public class Student
         address = t.nextToken();
         gpa = Double.parseDouble(t.nextToken());
         enrolledCourses = new ArrayList<>();
-        
-        while(t.hasMoreTokens())
-        {
+
+        while (t.hasMoreTokens()) {
             String courseId = t.nextToken();
             String courseGrade = t.nextToken();
 
             Course enrolledCourse;
-            for(Course c : mainFrame.courses)
-            {
-                if(c.id.equals(courseId))
-                {
+            for (Course c : mainFrame.courses) {
+                if (c.id.equals(courseId)) {
                     enrolledCourse = new Course(c);
                     enrolledCourse.grade = courseGrade;
                     enrolledCourses.add(enrolledCourse);
